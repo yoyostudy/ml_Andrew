@@ -1,2 +1,3 @@
 # ml_Andrew
-Machine Learning Specialization @ Coursera
+
+This repository is a record of the Machine Learnnig Spacialization of the Coursera Course offered by OpenAI
